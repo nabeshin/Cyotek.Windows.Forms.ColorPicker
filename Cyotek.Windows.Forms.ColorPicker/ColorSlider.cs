@@ -28,7 +28,6 @@ namespace Cyotek.Windows.Forms
   /// </summary>
   [DefaultValue("Value")]
   [DefaultEvent("ValueChanged")]
-  [ToolboxItem(false)]
   public class ColorSlider : Control
   {
     #region Instance Fields
